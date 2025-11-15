@@ -1,0 +1,5 @@
+{
+  "name": "International Map Station",
+  "description": "An interactive world map where you can click on a country to get detailed information about it, powered by the Gemini API. Explore capitals, populations, languages, and interesting facts for nations around the globe.",
+  "requestFramePermissions": []
+}
